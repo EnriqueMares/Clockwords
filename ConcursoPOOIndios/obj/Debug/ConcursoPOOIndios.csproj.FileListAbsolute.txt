@@ -1,0 +1,27 @@
+K:\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.exe
+K:\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.pdb
+K:\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ResolveAssemblyReference.cache
+K:\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.lblRespuesta.resources
+K:\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.Properties.Resources.resources
+K:\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.csproj.GenerateResource.Cache
+K:\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.exe
+K:\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.pdb
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.exe
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.pdb
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.lblRespuesta.resources
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.Properties.Resources.resources
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.csproj.GenerateResource.Cache
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.exe
+C:\Users\Ramon Heriberto\Desktop\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.pdb
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.exe.config
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.exe
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\bin\Debug\ConcursoPOOIndios.pdb
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.csproj.AssemblyReference.cache
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.lblRespuesta.resources
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.Properties.Resources.resources
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.csproj.GenerateResource.cache
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.exe
+C:\Users\Luis Mares\Downloads\ConcursoPOOIndios\ConcursoPOOIndios\obj\Debug\ConcursoPOOIndios.pdb
